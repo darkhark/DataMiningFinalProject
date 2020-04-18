@@ -1,0 +1,2 @@
+# DataMiningFinalProject
+The data set PHY_TRAIN used in this project came from 2004 KDD CUP competition.    It is a perfect  data  set  that  can  be  used  to  build  predictive  models  using  tools  including  “logistic regression” (with some interactions), “Gradient Boosting” and “Random Forest”.    To save your time on model development, a file with useful information on all predictor variables is included as well.  
